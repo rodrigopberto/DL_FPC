@@ -1,0 +1,2 @@
+[credential]
+	helper = "!f() { /root/.vscode-server/bin/d045a5eda657f4d7b676dedbfa7aab8207f8a075/node /tmp/vscode-remote-containers-86eba3872e3b9741a50db376508fc443cb3cf1e6.js $*; }; f"
